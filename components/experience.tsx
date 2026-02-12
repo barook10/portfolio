@@ -3,8 +3,21 @@
 import { useEffect, useRef, useState } from 'react'
 
 const experiences = [
-  {
+   {
     id: 1,
+    role: 'Technical Support Assistant',
+    company: 'DHF TECH',
+    period: 'Feb 2026 - Dec 2026',
+    icon: '🛠️',
+    highlights: [
+      'Diagnosed and resolved software issues across mobile and desktop environments',
+      'Configured operating systems and applications for optimal performance',
+      'Implemented security hardening on 50+ devices',
+      'Provided technical training with clear, user-friendly communication'
+    ]
+  },
+  {
+    id: 2,
     role: 'Web Developer',
     company: 'Somalia Embassy',
     period: 'Jul 2025 - Feb 2026',
@@ -14,19 +27,6 @@ const experiences = [
       'Built responsive admin dashboard with Material-UI and Firebase Authentication',
       'Automated email confirmations using EmailJS for 100+ monthly bookings',
       'Improved booking efficiency by ~50% through optimized UI and streamlined logic'
-    ]
-  },
-  {
-    id: 2,
-    role: 'Technical Support Assistant',
-    company: 'DHF TECH',
-    period: 'Feb 2025 - Dec 2025',
-    icon: '🛠️',
-    highlights: [
-      'Diagnosed and resolved software issues across mobile and desktop environments',
-      'Configured operating systems and applications for optimal performance',
-      'Implemented security hardening on 50+ devices',
-      'Provided technical training with clear, user-friendly communication'
     ]
   },
   {
