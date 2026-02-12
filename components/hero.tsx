@@ -34,7 +34,7 @@ export default function Hero() {
           >
             <div className="mb-6 inline-block">
               <span className="text-xs font-semibold text-accent/90 px-4 py-2 rounded-full bg-accent/10 border border-accent/30 uppercase tracking-wider">
-                Frontend Developer • Kuala Lumpur
+                Software Engineer
               </span>
             </div>
 
@@ -44,7 +44,7 @@ export default function Hero() {
             </h1>
 
             <p className="text-lg text-muted-foreground mb-10 max-w-xl leading-relaxed">
-              I'm Abdulmuabark Omar, a frontend developer passionate about crafting intuitive interfaces and scalable applications. I combine clean code with thoughtful design to create digital products that truly make an impact.
+              I'm Abdulmuabark Omar, a software engineer passionate about crafting intuitive interfaces and scalable applications. I combine clean code with thoughtful design to create digital products that truly make an impact.
             </p>
 
             <div className="flex flex-wrap gap-4">
