@@ -29,8 +29,8 @@ export default function Contact() {
     {
       icon: '📱',
       label: 'Phone',
-      value: '+971556558158',
-      href: 'tel:+971556558158'
+      value: '+971554146899',
+      href: 'tel:+971554146899'
     },
     {
       icon: '💻',
